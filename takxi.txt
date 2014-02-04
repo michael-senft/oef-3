@@ -2,7 +2,7 @@ git commit -m "tekst da ge wilt zette"
 git push -u origin master
 
 yu sneft alles goe ?
-yolo
+
 swag
 lol
 dayz - zombies
